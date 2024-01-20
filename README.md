@@ -11,7 +11,7 @@ A library designed for vigilant observation and tracking of file system changes 
 
 ## Installation
 
-1. Download the BlackEyes library [here](https://github.com/seuusuario/BlackEyes/releases/download/1.0.0/blackeyes.zip).
+1. Download the BlackEyes library [here](https://github.com/eugeniobenfica/BlackEyes/releases/download/1.0.0/blackeyes.zip).
 2. Integrate BlackEyes into your Python environment using the following Labyrinth command:
 
 ```bash
